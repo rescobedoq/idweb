@@ -13,14 +13,15 @@
 ## Rúbrica de calificación[^1]
 | ítem | Descripción | Puntaje |
 | :--- | :--- | :---: |
-| **Criterio 1** | Construcción y Validaciones del Formulario. | 4 |
-| **Criterio 2** | Aplicación de CSS y Box Model. | 4 |
-| **Criterio 3** | Usabilidad y Diseño Visual. | 4 |
-| **Criterio 4** | Cuestionario. | 4 |
+| **Criterio 1** | Construcción y Validaciones del Formulario. | 7 |
+| **Criterio 2** | Aplicación de CSS y Box Model. | 7 |
+| **Criterio 3** | Usabilidad y Diseño Visual. | 3 |
+| **Criterio 4** | Cuestionario. | 3 |
 | **Prueba[^2]** | Se tomaron en cuenta todas las consideraciones y recomendaciones dadas por el docente. | -0 |
 |  | **Total** | **20** |
 
-Si el docente solicita un video, debe cargarse en Youtube o Drive y sólo debe entregarse la URL pública, sin que se solicite login alguno. Es recomendable incluir la URL tanto en el README.md como en el informe.
+- Todos los criterios de evaluación deben quedar documentados en el informe.
+- Si el docente solicita un video, debe cargarse en Youtube o Drive y sólo debe entregarse la URL pública, sin que se solicite login alguno. Es recomendable incluir la URL tanto en el README.md como en el informe.
 
 [^1]: La autocalificación es obligatoria.
 [^2]: El docente debe comprobar el cumplimiento de todas las consideraciones y recomendaciones, evidenciando el trabajo en equipo con responsabilidad y la práctica de la ética profesional, a fin de no aplicar ninguna penalidad.
