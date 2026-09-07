@@ -1,9 +1,9 @@
 # Laboratorio 02 : Formularios HTML y CSS Básico
 
-| Entregables |
+| Entregables Obligatorios |
 | :--- |
-| Repositorio GitHub (Archivos funcionales) |
-| Informe PDF (Latex de preferencia) |
+| 1. Repositorio GitHub (Todos los archivos necesarios funcionales) |
+| 2. Informe de estudiante PDF (Latex de preferencia) |
 
 # Descripción de la práctica
 - Diseñar e implementar formularios HTML5 avanzados incorporando restricciones de validación nativas.
@@ -17,7 +17,7 @@
 | **Criterio 2** | Aplicación de CSS y Box Model. | 4 |
 | **Criterio 3** | Usabilidad y Diseño Visual. | 4 |
 | **Criterio 4** | Cuestionario. | 4 |
-| **Prueba[^2]** | Se tomaron en cuenta todas las consideraciones y recomendaciones, lo que evidencia un trabajo en equipo. | -0 |
+| **Prueba[^2]** | Se tomaron en cuenta todas las consideraciones y recomendaciones dadas por el docente. | -0 |
 |  | **Total** | **20** |
 
 Si el docente solicita un video, debe cargarse en Youtube o Drive y sólo debe entregarse la URL pública, sin que se solicite login alguno. Es recomendable incluir la URL tanto en el README.md como en el informe.
@@ -34,4 +34,3 @@ Si el docente solicita un video, debe cargarse en Youtube o Drive y sólo debe e
 - https://codigofacilito.com/articulos/que-es-el-box-model
 - https://www.mclibre.org/consultar/htmlcss/css/css-modelo-caja.html
 - https://lenguajecss.com/css/modelo-de-cajas/que-es/
-- 
