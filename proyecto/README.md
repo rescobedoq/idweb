@@ -92,5 +92,5 @@ proyecto/
 - https://railway.com/
 
 [^1]: Los informes deben estar en el repositorio del grupo en un subdirectorio llamado 'informes'.
-[^2]: Se puede cambiar tecnología para frontend: Angular, React y para backend: NodeJS, Spring.
-[^3]: La base de datos debe estar en la nomenclatura y estándares explicados en clase.
+[^2]: Se debe utilizar tecnología para frontend: HTML5, CSS3, JS nativo, flexbox, Bootstrap y para backend: NodeJS + express.
+[^3]: La base de datos debe estar en la nomenclatura y estándares explicados en clase, se puede usar, MySQL, PostgreSQL o Supabase.
