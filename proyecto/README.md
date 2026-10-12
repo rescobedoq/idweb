@@ -30,9 +30,9 @@
 | **Frontend** | HTML5 |
 | | CSS3 |
 | | JavaScript |
-| **Backend** | Django |
-| | NodeJS |
+| **Backend** | NodeJS |
 | | Express |
+| | zod |
 | **BD** | SQL |
 | | Supabase |
 | **Despliegue** | Docker |
