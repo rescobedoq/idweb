@@ -43,38 +43,43 @@
 
 
 # Modelo de Datos[^3]
-![image](enrollmentsv1.0.png)
+![image](img/enrollmentsv1.0.png)
 
 # Estructura del proyecto
 ```bash
-proyecto/
+.
 ├── backend
-│   ├── .gitignore
-│   ├── README.md
-│       ├── priv
-│       ├── pub
-│          ├── img
-│          ├── js
-│          ├── fonts
-│          ├── others
-│   └── package.json.txt
+│   ├── package.json
+│   ├── priv
+│   ├── pub
+│   │   ├── css
+│   │   ├── fonts
+│   │   ├── img
+│   │   ├── js
+│   │   └── others
+│   └── README.md
 ├── bd
 │   ├── bd.sql
-│   ├── .gitignore
 │   └── README.md
-├── frontend
-│   ├── .gitignore
-│   ├── index.html
-│   
-│   
+├── frontend(opcional)
+│   ├── package.json
+│   ├── priv
+│   ├── pub
+│   │   ├── css
+│   │   ├── fonts
+│   │   ├── img
+│   │   ├── js
+│   │   └── others
 │   └── README.md
-├── .gitignore
+├── img
+│   └── enrollmentsv1.0.png
 ├── informes
 │   ├── IDWeb_lab07_avance_proyecto.pdf
-│   ├── IDWeb_lab07_avance_proyecto.pdf
-│   ├── IDWeb_lab07_avance_proyecto.pdf
-│   ├── IDWeb_proyecto_informe_final.pdf
+│   ├── IDWeb_lab08_avance_proyecto.pdf
+│   ├── IDWeb_lab09_avance_proyecto.pdf
+│   └── IDWeb_proyecto_informe_final.pdf
 └── README.md
+
 ```
 
 # Referencias
