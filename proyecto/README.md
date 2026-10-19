@@ -51,6 +51,12 @@ proyecto/
 ├── backend
 │   ├── .gitignore
 │   ├── README.md
+│       ├── priv
+│       ├── pub
+│          ├── img
+│          ├── js
+│          ├── fonts
+│          ├── others
 │   └── package.json.txt
 ├── bd
 │   ├── bd.sql
@@ -59,12 +65,8 @@ proyecto/
 ├── frontend
 │   ├── .gitignore
 │   ├── index.html
-│   ├── pub
-│        ├── img
-│        ├── js
-│        ├── fonts
-│        ├── others
-│   ├── priv
+│   
+│   
 │   └── README.md
 ├── .gitignore
 ├── informes
